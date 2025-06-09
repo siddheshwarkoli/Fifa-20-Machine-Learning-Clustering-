@@ -1,5 +1,17 @@
 # Fifa-20-Machine-Learning-Clustering-
 # FIFA20 CLUSTERING 
+# <b>TASK 1
+#### <b>PREPARE A COMPLETE DATA ANALYSIS REPORT ON THE GIVEN DATA.
+# <b>Task 2
+#### <b>EXPLORE FOOTBALL SKILLS AND CLUSTER FOOTBALL PLAYERS BASED ON THEIR ATTRTIBUDES.
+
+
+# <b>Task3
+#### <b>EXPLORE THE DATA AND ATTEMPTS ALL THE BELOW ASKED QUESTION IN A STEP BY STEP MANNER:
+
+- <b> Prepare a rank ordered list of top 10 countries with most players. Which countries are producing the most footballers that play at this level?
+- <b>Plot the distribution of overall rating vs. age of players. Interpret what is the age after which a player stops improving?
+- <b>Which type of offensive players tends to get paid the most: the striker, the right-winger, or the left-winger? 
 
 
 ## INTRODUCTION OF PROJECT:
